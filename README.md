@@ -1,1 +1,2 @@
-# MoCA-Peru
+# Code for the paper "High orientation and low delayed recall in the standardisation of the Spanish version of the MoCA in elders of Peru"
+Description: This repository contains the datasets and Python scripts used in the standardisation described in the paper "High orientation and low delayed recall in the standardisation of the Spanish version of the MoCA in elders of Peru". Additional details, code and instructions for replication of the results are freely available upon request to the first author (Renato Paredes). Email: renato.paredes@pucp.edu.pe
